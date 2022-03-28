@@ -5,7 +5,7 @@
 >User login:
 * account-user
 * password-123
-admin login:
+>admin login:
 * account-admin
 * password-123
 
